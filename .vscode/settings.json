@@ -1,0 +1,5 @@
+{
+  "emmet.excludeLanguages": ["xsl", "xslt"],
+  "workbench.colorCustomizations": {},
+  "cSpell.words": ["UNISA"]
+}
